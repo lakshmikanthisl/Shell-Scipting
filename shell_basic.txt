@@ -1,0 +1,11 @@
+1. Diffrence between 'touch' and 'vi' is touch is mojorly used to create file in automation scripts
+2. Shell scrits starts with '#!/bin/---' and it is called 'shebang'
+3. Most used executables with shebang are
+	i. bash
+	ii. ksh
+	iii. sh
+	iv. dash
+4. Earlier if we provide '#!/bin/sh' it will redirect to '#!/bin/bash' through linking but now some operating systems it is been linked to '#!/bin/dash'
+5. Shell scripts can be run using 'sh <file name>' or './<file name>'
+
+ till 41.02 history command
